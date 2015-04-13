@@ -6,4 +6,4 @@ If you want to understand how Base64 encoding works, or you need to implement it
 How to use
 ==========
 
-def base64Encode("hello_world")
+`base64Encode("hello_world")`
